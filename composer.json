@@ -1,0 +1,17 @@
+{
+  "name": "donhekus/ocms",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "stefanegon",
+      "email": "info@egonstefan.dev"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "OCMS\\": "./core"
+    }
+  }
+}
